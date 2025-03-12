@@ -1,0 +1,165 @@
+# 🎮 TechnoloJesus - Spontaneous Ideas List (Fully Updated)
+
+## ✅ Recent Changes:
+- **Competitive Rivalries:** AI companies now compete with and sabotage each other, not just the player.
+- **Employee Stats:** Employees now start with stats **between 51% and 83%**, making optimization a challenge.
+- **Minimum Daily Revenue Task:** Each employee **automatically generates small revenue daily**.
+- **Expanded Revenue Streams:** Players can earn money through **app development, selling user data, and shady dealings**.
+- **All dollar amounts are rounded to the nearest hundredth place ($567.89).**
+- **Non-salary expenses (e.g., rent, utilities) are calculated per property, not per person.**
+- **Recurring expenses are automatically deducted at the end of each in-game day.**
+
+---
+
+## 1️⃣ **Core Startup Simulation Mechanics**
+- The game is a **startup simulation/management** experience where the player runs a tech company.
+- Inspired by *Silicon Valley*, featuring **app/game development, employee management, office upgrades, skill trees, industry rivalries, and blockchain integration**.
+- Built with **Python (Pygame, Pygame GUI, PyTMX, SQLite)**.
+- Uses **isometric pixel art** for visuals.
+
+---
+
+## 2️⃣ **Expanded Expense Categories**
+- **Food & Groceries** – Employees need to eat, affecting morale and productivity.
+- **High-Speed Internet** – Essential for efficiency, with tiered costs.
+- **Power Bills** – Affects servers and office equipment.
+- **Office Rent & Upgrades** – Now calculated **per property**, not per person.
+- **Recreational Expenses:** 
+  - Cannabis and psychedelics (creativity boost or side effects).
+  - Gym memberships (health/morale boost).
+  - Team outings and events (team synergy).
+- **Miscellaneous** – Coffee, office snacks, software licenses, work-from-home stipends.
+- **💰 Recurring Expenses:** Automatically deducted at the **end of each in-game day**.
+
+---
+
+## 3️⃣ **Competitive Rivalries (AI vs. AI)**
+- Rival startups **compete and sabotage each other**, not just the player.
+- AI-driven companies engage in:
+  - **Market Takeovers** – Stealing users/clients.
+  - **Corporate Espionage** – Trade secret theft.
+  - **Negative PR Campaigns** – Fake bad press.
+- The player can **observe rivalries unfold or manipulate them**.
+
+---
+
+## 4️⃣ **Chinese Knockoff Apps**
+- **Mechanic:** If the player develops a successful app, a Chinese company may create a near-identical version at a lower cost.
+- **Effects:** The knockoff could siphon users away, forcing the player to innovate, sue (expensive), or compete on marketing.
+- **Strategic Element:** The player can also reverse-engineer knockoffs to make their own clones of trending apps.
+
+---
+
+## 5️⃣ **Pakistani Click Farms**
+- **Mechanic:** Players can hire Pakistani click farms to artificially boost downloads, engagement, and app store rankings.
+- **Risk vs. Reward:** Risk of app store bans, negative press, or losing credibility if exposed.
+
+---
+
+## 6️⃣ **Background Dice-Roll System**
+- **Mechanic:** A **1d100 roll** determines certain outcomes, with modifiers based on skills, experience, and strategy.
+- **Use Cases:** Funding pitches, employee productivity, app market success, competitor actions.
+
+---
+
+## 7️⃣ **Employee Enthusiasm System (Inspired by 'State of Decay 2')**
+- **Employees never start at 100%** in any category.
+- **Initial stats range between 51% and 83%.**
+- **Enthusiasm Bar (0-100)** – Affects efficiency, **Flow State (boosts at high enthusiasm), Burnout (penalties at low enthusiasm).**
+- **What Affects Enthusiasm?**
+  - 🔼 **Increases:** Pay raises, office perks, recreation, passion projects.
+  - 🔽 **Decreases:** Overworking, salary disputes, failed projects.
+- **Encourages skill progression through training, mentorship, hands-on projects.**
+
+---
+
+## 8️⃣ **[UPPER MANAGEMENT] Mode**
+- **High-level management mode** focusing on all employees.
+- **Employee List Sections:**
+  - **Last Completed Task**
+  - **Last Uncompleted Task**
+  - **Current Task**
+  - **Next Task**
+  - **Time Since Last Break**
+  - **Time Since Last Day Off**
+  - **Hunger**
+  - **Brodom** (boredom – needs to hang out with friends doing recreational activities like smoking pot, taking shrooms, drinking Ayahuasca, tequila, etc.)
+  - **Performance Rating**
+  - **Skill Progression**
+  - **Stress Level**
+- **Sims-style mechanics** for dynamic employee behavior.
+
+---
+
+## 9️⃣ **Hiring/Firing System (Inspired by GTA V Crew Hiring)**
+- **Crew Hiring Mechanic:**
+  - Each job presents a **small pool of candidates (3-4)**.
+  - Employees have **randomly assigned ratings** for:
+    - **Proficiency** – Skill level in the job.
+    - **Mood** – Current emotional state.
+    - **Quirks** – Special traits (e.g., "Perfectionist," "Burns out easily").
+  - The player picks one candidate, making hiring **a strategic choice**.
+
+- **Recruitment Strategies:**
+  - **Standard job listings**
+  - **Poaching top talent** from competitors
+  - **Hiring interns** for cheap labor
+  - **Emergency Freelance Hire** – When a crucial employee quits, the player can bring in a freelancer for a **short-term, high-cost contract**.
+
+---
+
+## 🔟 **Employee Performance Reviews**
+- **Performance Metrics:** 
+  - Task completion rate
+  - Code quality
+  - Creativity
+  - Teamwork
+  - Loyalty
+- **Affects:** Salaries, promotions, company reputation, potential layoffs.
+- **Salary is influenced by skill level and performance metrics.**
+
+---
+
+## 1️⃣1️⃣ **Minimum Daily Revenue-Generating Task**
+- Each employee will **automatically complete at least one revenue-generating task per day**.
+- **Prevents "dead days"** where no money is made.
+- **Revenue is small** but ensures **consistent engagement**.
+- The task type depends on their role:
+  - **Coders:** Bug fixes, minor updates, optimization.
+  - **Marketers:** Small ad campaigns, social media promos.
+  - **Sales Team:** Minor sales pitches, lead generation.
+
+---
+
+## 1️⃣2️⃣ **Multiple Revenue Streams**
+- The game will feature **diverse ways to generate income**, including:
+  - **App Development & Launch** – Traditional revenue from app sales, ads, subscriptions.
+  - **Selling User Data** – Gray-area revenue model, risky but profitable.
+  - **Shady Dealings** – Black-hat strategies such as:
+    - **Fake engagement farming** (click farms, bot traffic)
+    - **Crypto/NFT scams** (pump-and-dump schemes)
+    - **Pay-to-win microtransactions** (if making mobile-style apps)
+
+---
+
+## 1️⃣3️⃣ **Live Social Media Updates (Inspired by Cities: Skylines 3)**
+- Employees, consumers, and industry insiders **post live updates** about the company.
+- **Dice-roll system** determines if posts are **positive, neutral, or negative**.
+- **Impact:** Influences **company reputation, employee morale, and investor confidence**.
+
+---
+
+## 1️⃣4️⃣ **Daily Summary Report**
+At the end of each in-game day, the player gets a **summary of the day's events** with an option for a **detailed report**.
+
+### 🔹 **Summary Includes:**
+- **Project Progress**
+- **Employee Enthusiasm Changes**
+- **New Expenses**
+- **Social Media Sentiment**
+- **Market Trends**
+- **Major Events** (Layoffs, firings, hiring, major breakthroughs)
+
+---
+
+These mechanics make *TechnoloJesus* more **realistic, strategic, and immersive**! Let me know if you want any further refinements.

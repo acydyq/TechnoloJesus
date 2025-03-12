@@ -1,0 +1,32 @@
+# TechnoloJesus - Development Roadmap
+
+## Phase 1: Core Game Infrastructure
+- [x] Implement Pygame framework.
+- [x] Create isometric game scene.
+- [x] Develop basic UI and main menu.
+- [x] Implement employee hiring & task system.
+- [x] Set up in-game economy.
+
+## Phase 2: Expanded Startup Mechanics
+- [x] Add **Expanded Expense Categories** (food, rent, utilities, recreation).
+- [x] Implement **Employee Enthusiasm System**.
+- [x] Integrate **Hiring/Firing System** with randomized attributes.
+- [x] Add **Employee Performance Reviews**.
+
+## Phase 3: Competitive Market & Risk Systems
+- [x] Develop **Chinese Knockoff Apps** mechanic.
+- [x] Implement **Pakistani Click Farms** with risk-reward factors.
+- [x] Add **Live Social Media Updates** to reflect company reputation.
+- [x] Integrate **Background Dice-Roll System** for randomness.
+
+## Phase 4: High-Level Management & Strategic Depth
+- [x] Introduce **[UPPER MANAGEMENT] Mode** with advanced employee tracking.
+- [x] Develop **Daily Summary Report** system.
+- [ ] Expand **Competitive Rivalry Mechanics** (company lawsuits, hostile takeovers, market sabotage).
+- [ ] Implement **Investor Relations & Funding System**.
+
+## Phase 5: Finalization & Polish
+- [ ] Optimize UI/UX.
+- [ ] Balance gameplay mechanics.
+- [ ] Playtesting & bug fixes.
+- [ ] Final release.

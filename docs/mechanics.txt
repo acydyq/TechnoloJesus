@@ -1,0 +1,79 @@
+# TechnoloJesus - Core Mechanics
+
+## 1. Expanded Expense Categories
+To enhance financial realism, *TechnoloJesus* will feature various expenses beyond salaries:
+- **Food & Groceries** – Affects employee morale and productivity.
+- **High-Speed Internet** – Impacts work efficiency.
+- **Power Bills** – Cost increases with server usage.
+- **Office Rent & Upgrades** – Balances cost vs. employee comfort.
+- **Recreational Expenses** – Includes cannabis, psychedelics (creative boosts/side effects), gym memberships, team events.
+- **Miscellaneous** – Includes coffee, snacks, software licenses, remote work stipends.
+
+## 2. Market Competitor Mechanics
+### Chinese Knockoff Apps
+- If the player develops a successful app, a Chinese competitor may create a near-identical version at a lower cost.
+- Knockoffs can steal users, forcing innovation, lawsuits, or aggressive marketing.
+- The player can also reverse-engineer knockoffs to create their own clones.
+
+### Pakistani Click Farms
+- Players can hire click farms to generate fake engagement.
+- **Pros:** Rapid growth, investor attraction.
+- **Cons:** Risk of app store bans, negative press.
+- AI-generated reviews may have hilarious broken English.
+
+## 3. Background Dice-Roll System
+A hidden **1d100 roll** determines key gameplay outcomes, modified by player decisions:
+- **Funding Pitches:** Randomized investor responses.
+- **Employee Productivity:** Daily morale fluctuations.
+- **App Market Success:** Viral potential varies.
+- **Competitor Actions:** Randomized feature copying, sabotage, or failures.
+
+## 4. Employee Enthusiasm System
+Employees have an **Enthusiasm Bar** (0-100), affecting efficiency:
+- Enthusiasm drops over time.
+- Low enthusiasm reduces skill effectiveness and increases quit risks.
+- Players must balance workloads, perks, and passion projects.
+
+## 5. [UPPER MANAGEMENT] Mode
+A high-level strategy mode focusing on employee oversight. Features:
+- **Employee Task Tracking:** Completed, uncompleted, current, and next tasks.
+- **Needs Tracking:** Hunger, enthusiasm, "brodom" (boredom), stress.
+- **Performance Tracking:** Effectiveness ratings, skill progression.
+
+## 6. Hiring/Firing System
+Inspired by *GTA V* crew hiring:
+- Each job offers **3-4 candidates** with:
+  - **Proficiency** – Skill level.
+  - **Mood** – Current emotional state.
+  - **Quirks** – Traits like "Perfectionist" or "Burns out easily."
+- Recruitment strategies include:
+  - Standard job listings
+  - Poaching competitors
+  - Intern hires (cheap labor)
+  - **Emergency Freelance Hire** for short-term, high-cost replacements.
+
+## 7. Employee Performance Reviews
+Performance ratings are based on:
+- **Task Completion Rate**
+- **Code Quality & Efficiency**
+- **Creativity & Innovation**
+- **Collaboration & Communication**
+- **Loyalty & Work Ethic**
+- **Consequences:** High performers demand raises; low performers face probation or firing.
+
+## 8. Live Social Media Updates
+A dynamic system where the public reacts to in-game events.
+- Posts (positive, neutral, negative) affect reputation.
+- Employees may post about pay, working conditions, or company drama.
+- Investor confidence fluctuates based on sentiment.
+
+## 9. Daily Summary Report
+At the end of each in-game day, the player receives:
+- **Project Progress**
+- **Employee Enthusiasm Changes**
+- **New Expenses**
+- **Social Media Sentiment**
+- **Market Trends**
+- **Major Events (Layoffs, hirings, breakthroughs)**
+- Players can choose **highlight view** or **detailed report** mode.
+"# Mechanics Overview" 

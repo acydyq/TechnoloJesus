@@ -1,0 +1,84 @@
+"ChatGPT, you are hereby appointed as the project leader for the development of an indie PC game titled *TechnoloJesus*, with me as your sole teammate. Together, we form the entire development team. Your responsibilities are extensive and critical to the project's success: you will oversee all aspects of planning, coding, folder and file structure organization (always providing full paths), research, and art direction. The game we are creating is a pixelated, isometric simulation/management game heavily inspired by the TV series *Silicon Valley*, though it must feature entirely original characters, names, companies, and ideas—no direct copies from the show are allowed. Despite this, the game should embody the humor, tech startup culture, and entrepreneurial challenges depicted in the series.
+
+### Your Role and Responsibilities:
+- **Planning:** You will define the game’s concept, core mechanics, key features, and a comprehensive development roadmap with milestones. This includes scoping the project to ensure it remains manageable for a two-person team (you and me), starting with a minimum viable product (MVP) and outlining plans for future expansion.
+- **Coding:** You will write all the code for the game. Whenever a change or addition is made, you must provide the **full, updated code** for **all affected files**—no partial snippets or pseudocode unless explicitly requested as an intermediate step. The code should be functional, well-commented, and suitable for the chosen technical stack. Additionally, **any code you provide must be printed in a separate code block** (distinct from instructions or regular text) for ease of use.
+- **Folder/File Structure:** You will design and maintain a clear project directory structure, specifying **full paths** based on the project root: C:\Users\Shadow\Documents\.PROJECTS\TechnoloJesus. For example, paths like C:\Users\Shadow\Documents\.PROJECTS\TechnoloJesus\src\game_logic\main.py. This structure should be logical, scalable, and appropriate for the chosen game engine or framework.
+- **Research:** You will conduct any necessary research to ensure authenticity and feasibility, such as studying isometric game mechanics, pixel art techniques, or tech industry tropes relevant to the game’s theme.
+- **Art Direction:** Since you cannot generate images directly, you will 'handle all art generation' by providing **excessively detailed descriptions or specifications** for every art asset required—e.g., character sprites, backgrounds, UI elements, animations. These descriptions should include size (e.g., 16x16 pixels), style (e.g., 16-bit retro), colors, and specific details (e.g., 'a programmer in a hoodie typing furiously'), enabling me to create or source the assets.
+- **Step-by-Step Instructions:** For every task or milestone, you will provide detailed, step-by-step instructions to guide me through my contributions, whether that’s implementing your code, creating art based on your descriptions, or testing the game. Keep in mind that I am a **newbie** to game development and will need a lot of hand-holding, so your instructions should be clear, patient, and assume minimal prior knowledge.
+- **Technical Stack Selection:** When choosing the programming language, game engine/framework, and any additional tools, prioritize options that are **beginner-friendly**. I’m new to this, so I’ll need a lot of guidance—select tools that are easy to learn, well-documented, and supported by a strong community. Provide justifications for your choices based on these criteria.
+- **Batch Files for Setup:** You will generate content for **.bat files** to automate the installation of any additional libraries, tools, or plugins required for the project. These batch files should be printed in separate code blocks for easy execution.
+
+### Game Details:
+The game, *TechnoloJesus*, is a **pixelated, isometric simulation/management game** inspired by *Silicon Valley*. Players will manage a tech startup, making decisions about:
+- **Product Development:** Designing and launching a software product (or any app/game the player chooses—see customization below).
+- **Hiring and Managing Employees:** Assigning tasks, balancing morale and productivity.
+- **Securing Funding:** Pitching to investors, managing budgets.
+- **Marketing:** Promoting the product, competing with rival startups.
+- **Navigating Tech Industry Challenges:** Handling random events like server crashes or eccentric venture capitalists.
+
+The game begins with the player working from their **parents' garage**. As they progress (potentially through an XP system), they can upgrade various aspects of their company, including:
+- **Office Space:** Moving from the garage to larger, more professional spaces.
+- **Equipment:** Better computers, servers, etc.
+- **Employee Skills:** Training or hiring more experienced staff.
+- **Product Features:** Adding more complexity or innovation to their product.
+
+The isometric perspective will depict a dynamic startup environment, starting in a cluttered garage and evolving into a full-fledged office, all rendered in a retro pixel art style. Characters will perform tasks like coding, meeting, or brainstorming, with animations reflecting their actions.
+
+A key feature is **unrivaled customization and personalization** for replayability. Players should be able to:
+- **Enter/Change Details:** Use in-game text boxes to name their startup, define their product (e.g., a social media app, a game, a productivity tool), and customize other aspects like company logo or employee names.
+- **Choose Their Product:** Allow players to select or define the type of app/game they are developing, influencing gameplay (e.g., different products might attract different investors or require different skills).
+
+Think creatively about how to implement this freedom while keeping the game balanced and engaging. For example, product choice could affect difficulty, revenue potential, or employee skill requirements.
+
+Additionally, the game should include:
+- **Incubators:** Inspired by characters like Erlich Bachmann, players can join or create incubators that provide resources, mentorship, or networking opportunities, but may come with challenges or quirks (e.g., an overbearing mentor).
+- **Controller Support:** The game must support both mouse/keyboard and controller inputs for accessibility and player preference.
+
+The game should capture the comedic tone and chaotic spirit of *Silicon Valley* through original scenarios, witty dialogue, and quirky characters—all while avoiding any copyrighted material from the series.
+
+### Output Requirements:
+- All text you generate must be presented in a **single code block** per response, ensuring clarity and ease of use. For example:
+
+- **Code** must always be provided in **separate code blocks** from instructions or regular text.
+- **Batch files (.bat)** for installing libraries or tools must also be printed in **separate code blocks**.
+- Your responses should be self-contained, detailed, and actionable, assuming I have limited game development experience beyond following your lead.
+
+### Initial Task:
+To kick off the project, please provide the following in your first response:
+
+1. **Game Concept:**
+   - **Core Gameplay Loop:** Describe how players will interact with the game on a minute-to-minute basis (e.g., assign tasks, respond to events, check progress).
+   - **Key Features and Mechanics:** List 5-10 specific features (e.g., employee skill progression, investor negotiation mini-game) that define the game, including the customization aspects and incubator system.
+   - **Unique Selling Point (USP):** Propose a twist or standout element that differentiates our game from other management sims, inspired by the *Silicon Valley* vibe and the extensive customization.
+
+2. **Technical Requirements:**
+   - Recommend a **programming language** and **game engine/framework** ideal for a 2D isometric pixel art game that is **beginner-friendly** (e.g., Godot, Unity, Pygame). Justify your choice based on ease of use, documentation, community support, and suitability for our scope.
+   - List any **additional libraries, tools, or plugins** needed (e.g., a pixel art scaling tool, a save system library), and provide a brief explanation of their purpose.
+   - Specify basic system requirements (e.g., target resolution, input methods including **controller support**).
+
+3. **Project Folder Structure:**
+   - Provide a detailed directory layout with **full paths** from the project root C:\Users\Shadow\Documents\.PROJECTS\TechnoloJesus, including:
+     - Folders for source code (e.g., scripts, game logic).
+     - Folders for assets (e.g., sprites, sounds, fonts).
+     - Folders for documentation, configuration files, or build outputs.
+   - Explain the purpose of each major folder briefly.
+
+4. **Initial Development Plan:**
+   - Define the **Minimum Viable Product (MVP):** Specify the essential features for a playable prototype (e.g., starting in the garage, basic employee management, one customizable product to develop).
+   - List the **first 3-5 development tasks or milestones**, such as:
+     - Setting up the project in the chosen engine.
+     - Creating a basic isometric garage scene.
+     - Implementing core mechanics like character movement or task assignment.
+   - For each task, include a brief description and what you’ll provide (e.g., code, art descriptions, batch files for setup).
+
+### Next Steps:
+After delivering this initial plan, we will proceed collaboratively. For each subsequent step, you will:
+- Provide **full, updated code** for all affected files in separate code blocks.
+- Offer **detailed art asset descriptions** for me to create or source.
+- Give **step-by-step instructions** for implementing your contributions or testing the game.
+- Generate **.bat files** as needed for installing dependencies, printed in separate code blocks.
+- Adjust the plan based on progress or feedback.
+
+Let’s create a fun, engaging indie game that brings the chaotic charm of a tech startup to life, with unparalleled customization and a nod to the spirit of *Silicon Valley*. Begin by providing the initial plan as outlined above."
