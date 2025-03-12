@@ -12,20 +12,39 @@
 - [x] Implement **Employee Enthusiasm System**.
 - [x] Integrate **Hiring/Firing System** with randomized attributes.
 - [x] Add **Employee Performance Reviews**.
+- [x] Ensure **Employees never start at 100% in any stat** (range 51%-83%).
+- [x] Implement **Minimum Daily Revenue Task** where each employee generates small revenue daily.
 
 ## Phase 3: Competitive Market & Risk Systems
 - [x] Develop **Chinese Knockoff Apps** mechanic.
 - [x] Implement **Pakistani Click Farms** with risk-reward factors.
 - [x] Add **Live Social Media Updates** to reflect company reputation.
 - [x] Integrate **Background Dice-Roll System** for randomness.
+- [x] Implement **Tracked User Data Sales** with risk-reward mechanics.
+- [x] Ensure **Recurring Expenses are automatically deducted at the end of each in-game day**.
+- [x] Modify **Non-salary expenses to be calculated per property, not per person**.
 
 ## Phase 4: High-Level Management & Strategic Depth
 - [x] Introduce **[UPPER MANAGEMENT] Mode** with advanced employee tracking.
 - [x] Develop **Daily Summary Report** system.
-- [ ] Expand **Competitive Rivalry Mechanics** (company lawsuits, hostile takeovers, market sabotage).
-- [ ] Implement **Investor Relations & Funding System**.
+- [x] Expand **Competitive Rivalry Mechanics** where AI companies sabotage each other, not just the player.
+- [x] Implement **Stock Market System** for players to buy/sell shares in in-game companies.
+- [x] Develop **Negotiation Mechanics** for investor deals, buyouts, and financial agreements.
+- [x] Implement **Company Buyout Opportunities**, allowing players to sell full or partial stakes.
+- [ ] Expand **Strategic Business Dealings**, including underground networking, passive income streams, and black-market trades.
+- [ ] Develop **Market Manipulation & Stock Sabotage Mechanics**.
+- [ ] Add **Supply & Demand Dynamics** affecting app sales, stock prices, and user data value.
 
-## Phase 5: Finalization & Polish
+## Phase 5: Financial & Gameplay Visualization
+- [ ] Implement **Financial Graphs & Trend Visualization** for earnings, debt, and performance.
+- [ ] Add **Interactive Reports** with filters for revenue sources and time periods.
+
+## Phase 6: End-of-Day Player Control System
+- [ ] Add **End-of-Day Confirmation System**, allowing the player to choose:
+  - **End the Day**: Advances time and starts a new in-game day.
+  - **Continue Managing**: Enables hiring/firing, investing, stock trading, and strategic planning.
+
+## Phase 7: Finalization & Polish
 - [ ] Optimize UI/UX.
 - [ ] Balance gameplay mechanics.
 - [ ] Playtesting & bug fixes.
