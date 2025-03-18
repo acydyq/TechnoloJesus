@@ -1,0 +1,105 @@
+TechnoloJesus - Development Roadmap
+====================================
+
+Project Overview:
+-----------------
+TechnoloJesus is a **startup simulation game** that blends **Silicon Valley-style corporate satire, chaotic tech industry rivalries, and over-the-top business schemes**. It will transition from a **text-based management game running in a GUI** (Phase 1) to a **fully interactive isometric pixel-art simulation** (Phase 3+).
+
+Development Phases:
+-------------------
+The development of TechnoloJesus will be structured into **multiple phases**, each expanding the game’s mechanics, UI, and interactions.
+
+===========================================================================
+  📌 Phase 1: Text-Based GUI Simulation (CURRENT DEVELOPMENT)
+===========================================================================
+✔ **Core Gameplay in Text-Based GUI**
+   - Pygame-based GUI with text-based interactions.
+   - **Retro pixelated text UI** (NES-style aesthetics).
+   - **Day/Night Cycle** (Dave the Diver-inspired).
+   - **Basic Startup Economy:** Payroll, office rent, investments.
+   - **Basic Employee System:** Hiring, morale, productivity.
+   - **Daily Business Reports:** Earnings, expenses, performance logs.
+   - **Basic Rival AI:** Competing startups that affect the industry.
+
+✔ **Text-Based Events & Decisions**
+   - Random **company disasters** (bugs, employee breakdowns, lawsuits).
+   - **Nighttime Business Hustles:** Risky investments, shady deals.
+   - **Passive AI-Generated Social Media** (affects company reputation).
+
+✔ **Basic Save System**
+   - SQLite-based save/load for financials, employees, rival interactions.
+
+===========================================================================
+  📌 Phase 2: Deepening Mechanics & First Visual Elements
+===========================================================================
+🚧 **Expanded Economy**
+   - **Stock Market System**: Invest in rival startups, manipulate shares.
+   - **More Shady Business Opportunities**: Crypto scams, fake apps.
+   - **Company Debt & Bankruptcy Mechanics**.
+
+🚧 **Deeper Employee Interactions**
+   - Employees develop **quirks, addictions, and rivalries**.
+   - Can **go rogue**, **leak company secrets**, **or start side businesses**.
+   - **Office Politics & Drama**: Employees sabotage each other.
+
+🚧 **Advanced AI Rivals**
+   - Competitors **steal your ideas**, **clone your software**, **or launch smear campaigns**.
+   - **Negotiation mechanics** for buyouts and hostile takeovers.
+
+🚧 **Graphical Enhancements**
+   - **Retro-inspired pixel HUD/UI**.
+   - **Simple character sprites** in a corporate dashboard.
+
+===========================================================================
+  📌 Phase 3: Transition to Isometric Pixel-Art Simulation
+===========================================================================
+🚧 **Major Visual Upgrade**
+   - **Office becomes a visual space** (not just a text log).
+   - **Isometric Pixel-Art Graphics** (Code Monkeys-inspired).
+   - **Interactable Employees & Workstations**.
+
+🚧 **Company Customization**
+   - Upgrade your **office space, furniture, and technology**.
+   - **Hiring & Training System**: Recruit talent, fire bad employees.
+
+🚧 **Expanded Business Scandals**
+   - **Corporate Espionage Mini-Games**.
+   - **“Pay to Win” monetization tactics**.
+   - **“Fake AI” Business Model** (fool investors with vaporware).
+
+===========================================================================
+  📌 Phase 4: Full Management Sim + Multiplayer (Far Future)
+===========================================================================
+🚧 **Multiplayer Business Wars**
+   - Compete with **other players' startups**.
+   - **Market Manipulation PvP** (sabotage, hostile takeovers).
+   - **Shared in-game economy** (influenced by all players).
+
+🚧 **Full AI-Driven Startup Simulation**
+   - Employees **evolve dynamically** (promotions, drama, betrayals).
+   - AI rivals adapt to **player tactics**.
+
+🚧 **Social Media & Viral Marketing**
+   - Run **fake influencer campaigns**.
+   - **Algorithm Manipulation** to control public opinion.
+
+===========================================================================
+  📌 Final Vision: The Ultimate Startup Satire
+===========================================================================
+TechnoloJesus will become a **hilariously unethical startup sim**, blending:
+- **The social chaos of *Animal Crossing*** (AI-driven office relationships).
+- **The biting humor of *Silicon Valley*** (ridiculous tech industry satire).
+- **The absurdity of *Trailer Park Boys*** (startup scams, shady business).
+- **The 8-bit charm of *Code Monkeys*** (retro visuals, corporate disasters).
+- **The day/night depth of *Dave the Diver*** (strategic management cycles).
+
+==================================================
+🚀 Current Focus: Finish **Phase 1**
+==================================================
+✅ **Text-Based GUI**
+✅ **Basic Economy & Employees**
+✅ **Daily Reports & Rival AI**
+🚧 **Expanding Nighttime Business Options**
+🚧 **Enhancing UI with Retro Elements**
+
+Next major milestone: **Refining AI & Expanding Economy**

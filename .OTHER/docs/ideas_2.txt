@@ -1,0 +1,102 @@
+# 🎮 TechnoloJesus - Updated Game Design Document (March 18, 2025)
+
+## Overview
+*TechnoloJesus* is a text-based startup simulation/management game running inside a GUI, with plans for a pixel-art isometric perspective inspired by *Code Monkeys*’ NES-style animation to be implemented in the future. The game dives deep into the chaotic, weed-fueled, Adderall-popping tech world of *Silicon Valley*, blending wild escapades from *Trailer Park Boys*, character progression from *State of Decay 2*, and day/night rhythms tailored from *Dave the Diver*. Players run a scrappy tech startup, managing eccentric employees, rivalries, and a rollercoaster of financial and social stakes—all while chasing the dream of building the next big app or crashing in a blaze of tequila and "Always Blue" glory.
+
+## Inspirations
+- **Silicon Valley (TV Show):** Core ideas of startup chaos, cutthroat rivalries, and quirky characters. Expect weed-smoking sessions, Adderall-fueled coding marathons, tequila shots, and analogs for Erlich (charismatic stoner visionary), Russ (eccentric billionaire), Peter (aloof genius), Gavin (ruthless rival), Gilfoyle (sarcastic coder), etc.
+- **Code Monkeys (NES-Style TV Show):** Retro aesthetic and irreverent humor shape the tone, with a pixel-art isometric future in mind.
+- **State of Decay 2 (Video Game):** Robust level-up and skill systems, plus rich backstories for all characters.
+- **Dave the Diver (Video Game):** Day/night activities tailored to startup life—days for grinding, nights for chaos and recovery.
+- **Trailer Park Boys (TV Show):** Wild, weed-soaked escapades and a scrappy, makeshift vibe infuse the garage startup feel.
+
+## Backstory and Startup Creation
+You’re a burned-out coder, fried from years of corporate tech hell, your soul crushed under bureaucracy. One wild night—high on weed, buzzing on Adderall, and chasing a tequila shot with "Always Blue"—you snap. With $500, a beat-up laptop, and a sketchy garage borrowed from a cousin who’s definitely growing something illegal, you launch your startup. The text-based intro unfolds in the GUI: Custom Names - Pick your name and a startup name (e.g., “Pied Piper” or “BlazeTech”). Rebranding’s an option later, earned through revenue or infamy. Setup Choices (Phase 2) - Future perks like “+10% morale from weed” or “extra $100 from Russ Hanneman’s tequila fund.” The screen fades with: "Day 1: Disrupt or get fucked." It’s gritty, personal, and reeks of *Trailer Park Boys* defiance—rivals, stoner employees, and a world ready to chew you up await.
+
+## Core Gameplay Mechanics
+### 1. Startup Simulation
+Players manage a tech startup via text commands in a GUI, juggling app development, employee chaos, and finances. Think *Silicon Valley* meets *Trailer Park Boys*—coding breakthroughs interrupted by weed runs and rival sabotage.
+
+### 2. Day/Night System (Inspired by Dave the Diver)
+- **Daytime:** Grind on projects, manage employees, and dodge crises—text prompts like “Gilfoyle’s rewriting the backend again” or “Erlich’s pitching to Russ Hanneman.”
+- **Nighttime:** Weed-smoking sessions, Adderall binges, tequila-fueled rants, or skill training. Social media explodes with fallout—e.g., “Employee tweets: ‘Boss made us shotgun tequila—10/10.’”
+- **End-of-Day Confirmation:** Text prompt: “End the day?” Yes advances time; No opens hiring, firing, or checking the stock market amid the chaos.
+
+### 3. Expanded Expense Categories
+Recurring expenses (deducted daily, tracked in GUI): 
+- **Weed & Booze:** Joints and tequila shots boost creativity but risk burnout (*Silicon Valley*/*Trailer Park Boys* vibes).
+- **Adderall:** Fuels overtime but messes with morale.
+- **Food & Groceries:** Cheap pizza or "Always Blue" energy drinks.
+- **High-Speed Internet:** Essential for coding marathons.
+- **Power Bills:** Keeps the garage servers humming.
+- **Rent & Upgrades:** Shady garage to slightly less shady office.
+- **Recreational:** Psychedelics, gym passes, or wild team outings (*Trailer Park Boys*-style chaos).
+
+### 4. Financial Graphs & Trend Visualization
+Text-based GUI tracks stats, with future pixel-art charts: 
+- **Line Graphs:** Revenue, expenses, and weed stash levels.
+- **Bar Charts:** Compare app profits vs. tequila costs.
+- **Pie Charts:** Morale breakdowns and social media buzz (*Silicon Valley* Twitter wars).
+
+## Employee Management: Exile or Ruin System (The Startup Hunger Games)
+Employees are *Silicon Valley*-style weirdos with *State of Decay 2* backstories—weed-smoking coders, Adderall-popping hustlers, and tequila-chugging egomaniacs. The "Exile or Ruin" system turns them into assets or disasters.
+
+### Employee Morale System
+- **Morale Meter (0-100%):** Shifts with weed, pay, or decisions:
+  - **High (75%+):** Coding sprints, wild ideas (*Erlich pitching nonsense*).
+  - **Neutral (40-74%):** Minimum effort, sarcastic Slack messages (*Gilfoyle vibes*).
+  - **Low (20-39%):** Slacking, weed runs, leaks to rivals.
+  - **Critical (0-19%):** Quitting, sabotage, or viral rants (*Trailer Park Boys*-level chaos).
+- **Boosters:** Weed breaks, tequila shots, good press.
+- **Killers:** Overwork, no Adderall, or forced team-building (*Silicon Valley*’s “axe throwing with Kevin” cringe*).
+- **GUI:** Text-based morale meters per employee.
+
+### Employee Motivation System
+Motivations drive effort (*Silicon Valley* quirks):
+- **Clout Chaser (🏆):** Needs fame—leaks code for clout if ignored (*Erlich analog*).
+- **Gold Digger (🤑):** Cash-driven—grinds for pay, bolts otherwise (*Russ Hanneman vibes*).
+- **Lazy Genius (😴):** Brilliant but stoned—shines when dosed, stalls if bored (*Gilfoyle analog*).
+
+### Employee Skill Progression (State of Decay 2 Style)
+Skills evolve with backstories (tracked in GUI):
+- **Hustle:** “Adderall Fiend” (fast, crashes hard).
+- **Tech Literacy:** “Code Monk” (fixes anything, smug as hell—*Gilfoyle*).
+- **Charisma:** “Stoner Prophet” (sways investors, reeks of weed—*Erlich*).
+- **Problem-Solving:** “Chaos King” (handles crises, demands tequila—*Trailer Park Boys* energy*).
+
+### Social Media System (The Twitter Wars)
+Text-based posts amplify chaos (*Silicon Valley* style):
+- **Firing Drama:** “Canned from [Startup Name]—they owe me weed money!” tanks morale.
+- **Screw-Ups:** “App crashed, blame the tequila shots” sparks Reddit storms.
+- **Outcomes:** Good buzz brings talent; bad buzz brings *Gavin Belson*-style rivals.
+
+### The Big Picture
+Employees are ticking bombs or golden geese—exile them (*Silicon Valley* firings) or ruin them (*Trailer Park Boys* sabotage). Every choice ripples through the GUI’s text feed.
+
+## Industry Dynamics
+### Competitive Rivalries (AI vs. AI)
+Rivals like *Gavin Belson*’s Hooli sabotage everyone (*Silicon Valley*): Market grabs, espionage, or fake press (*Trailer Park Boys* wildness*). Players can stir the pot or watch it burn.
+
+### Stock Market System
+Text-based stock trading (*Silicon Valley* stakes): Prices shift with scandals, launches, or crashes. Options: Trade quick, invest long, or rig it (*Russ Hanneman* style).
+
+### Tracked User Data Sales
+Collect and sell data (*Silicon Valley* ethics): Big profits, bigger risks—breaches or *Gavin*-led investigations.
+
+### Negotiation Mechanics
+Haggle with investors (*Russ Hanneman* antics): Equity, cash, or tequila-fueled walkaways in text form.
+
+### Company Buyout Opportunities
+Sell to tech giants (*Silicon Valley* endgame): Triggered by dominance or infamy, negotiated via GUI prompts.
+
+## Technical Implementation
+- **Current:** Text-based game in a GUI (Python, Pygame GUI, SQLite).
+- **Future:** Pixel-art isometric visuals (*Code Monkeys* NES style).
+- **GUI:** Text commands with live stat tracking—morale, cash, and weed levels.
+
+### Development Phases
+- **Phase 1:** Text-based startup creation, morale/motivation, basic GUI stats, core mechanics.
+- **Phase 2:** Social media, skill progression, buyouts, pixel-art visuals, wilder *Trailer Park Boys* antics.
+
+## Vision
+*TechnoloJesus* is *Silicon Valley*’s startup chaos meets *Trailer Park Boys*’ weed-soaked madness, with *State of Decay 2* depth and *Dave the Diver* rhythm—all wrapped in a *Code Monkeys*-inspired shell. Build an empire or burn it down in a haze of "Always Blue."

@@ -1,0 +1,78 @@
+# 🚀 TechnoloJesus - Full Development Plan (Restarting from Scratch)
+====================================================================
+
+## 📌 Overview
+TechnoloJesus is a **text-based startup simulation game** running in a **GUI**, heavily inspired by:
+- **Silicon Valley (TV Show)** – Startup chaos, corporate absurdity, and rivalries.
+- **Code Monkeys (TV Show)** – NES-style humor, irreverent game development culture.
+- **State of Decay 2 (Game)** – Character skills, morale, and progression system.
+- **Dave the Diver (Game)** – Day/Night activity loop (work by day, chaos by night).
+- **Trailer Park Boys (TV Show)** – Scrappy, makeshift startup shenanigans.
+
+## 📌 Project Goals (Phase 1)
+1️⃣ **Text-Based GUI Running the Game**  
+   - **Pygame GUI-based simulation** with a **clean & easy** retro-inspired UI.
+   - **Day/Night System** inspired by *Dave the Diver*:
+     - **Daytime:** Manage employees, code apps, deal with crises.
+     - **Nighttime:** Hustle, seek investments, run shady business deals.
+
+2️⃣ **Employee Recruitment & Management System**
+   - **GTA V Crew Recruitment + State of Decay 2 Skills System**
+   - **Traits & Backgrounds** that impact morale & work performance.
+   - **Star Rating Skills** (★☆☆☆☆ to ★★★★★).
+   - **Quirks & Weaknesses** (employees create random chaos).
+   - **Personalities & Social Conflicts** (rivalries, workplace drama).
+   - **Firing, Exiling, or Ruining Employees** (Startup Hunger Games).
+
+3️⃣ **AI-Driven Startup Rivals**
+   - Competitors **steal ideas, manipulate markets, and sabotage your company**.
+   - **Corporate Espionage & Leaks** (rivals bribe employees).
+   - **Stock Market System** (player can invest, short-sell, or rig the market).
+   - **Fake AI Startups & Pump-and-Dump Schemes**.
+
+4️⃣ **Dynamic Social Media System**
+   - **AI-generated drama, startup buzz, and reputation mechanics**.
+   - **Employees leak company secrets** or **get cancelled online**.
+   - **Players can stir controversy, manipulate PR, or silence critics**.
+
+5️⃣ **Robust Expense System & Business Decisions**
+   - **Weed & Booze as Business Expenses** (boost creativity but cause chaos).
+   - **Rent, Utilities, and Team Outings** (Silicon Valley startup life).
+   - **Burn Rate, Growth Rate, and Investment Rounds**.
+
+6️⃣ **Event-Driven Chaos**
+   - **Random workplace disasters, lawsuits, and office betrayals**.
+   - **"Unhinged Investor" mechanic** (VCs demand absurd features).
+   - **Tech Scandals** (data leaks, unethical practices, AI bias lawsuits).
+
+## 📌 Technical Implementation
+### 🔹 Core Components:
+| Component            | Description |
+|----------------------|-------------|
+| `main.py`           | **Game entry point** - initializes GUI & game loop |
+| `core/game_loop.py` | **Handles gameplay logic** (time progression, economy, AI) |
+| `core/employees.py` | **Manages employees** (hiring, skills, morale, quirks) |
+| `ui/gui.py`         | **Handles UI rendering** (text-based, animated retro interface) |
+| `data/game_data.db` | **Stores financials, employee data, and startup stats** |
+
+### 🔹 Tools & Dependencies:
+- **Python (3.12.6)**
+- **Pygame + Pygame GUI**
+- **SQLite** (for game state persistence)
+- **Matplotlib** (for future business analytics)
+- **GitHub** (version control for updates)
+
+---
+
+# 🚀 Project Setup & Automation - .BAT FILES
+Below are **.bat files** for **automating project setup, dependencies, and GitHub version control**.
+
+---
+
+## 📌 1️⃣ `setup_dependencies.bat` (Installs Dependencies)
+```batch
+@echo off
+echo Installing TechnoloJesus Dependencies...
+pip install pygame pygame_gui matplotlib sqlite3
+echo Dependencies installed successfully!
+pause

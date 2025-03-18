@@ -1,0 +1,109 @@
+# 🎮 TechnoloJesus - Spontaneous Ideas List (Fully Updated)
+
+## 1️⃣ **Core Startup Simulation Mechanics**
+- The game is a **startup simulation/management** experience where the player runs a tech company.
+- Inspired by *Silicon Valley*, featuring **app/game development, employee management, office upgrades, skill trees, industry rivalries, and blockchain integration**.
+- Built with **Python (Pygame, Pygame GUI, PyTMX, SQLite)**.
+- Uses **isometric pixel art** for visuals, inspired by *Code Monkeys (G4TV)*.
+
+---
+
+## 2️⃣ **Expanded Expense Categories**
+- **Food & Groceries** – Employees need to eat, affecting morale and productivity.
+- **High-Speed Internet** – Essential for efficiency, with tiered costs.
+- **Power Bills** – Affects servers and office equipment.
+- **Office Rent & Upgrades** – Now calculated **per property**, not per person.
+- **Recreational Expenses:** 
+  - Cannabis and psychedelics (creativity boost or side effects).
+  - Gym memberships (health/morale boost).
+  - Team outings and events (team synergy).
+- **Miscellaneous** – Coffee, office snacks, software licenses, work-from-home stipends.
+- **💰 Recurring Expenses:** Automatically deducted at the **end of each in-game day**.
+
+---
+
+## 3️⃣ **Competitive Rivalries (AI vs. AI)**
+- Rival startups **compete and sabotage each other**, not just the player.
+- AI-driven companies engage in:
+  - **Market Takeovers** – Stealing users/clients.
+  - **Corporate Espionage** – Trade secret theft.
+  - **Negative PR Campaigns** – Fake bad press.
+- The player can **observe rivalries unfold or manipulate them**.
+
+---
+
+## 4️⃣ **Tracked User Data Sales**
+- Players can **collect and store user data** over time.
+- **Sell in bulk for larger profits**, with **realistic pricing based on market demand**.
+- **Risk of data breaches** if improperly secured.
+- Selling data may impact **company reputation** and **trigger regulatory investigations**.
+
+---
+
+## 5️⃣ **Realistic but Simple Stock Market System**
+- Players can **view in-game companies, track stock prices, and buy/sell shares**.
+- Stock prices **fluctuate based on**:
+  - **Company performance** (profits, app launches, scandals).
+  - **Competitor actions** (rival takeovers, lawsuits).
+  - **Random market events** (crashes, booms).
+- **Strategic Investment Mechanics**:
+  - **Short-term trading** – Buy and sell stocks for quick profits.
+  - **Long-term investing** – Hold shares for passive income.
+  - **Stock Manipulation** – Engage in **insider trading, false hype, or market sabotage**.
+
+---
+
+## 6️⃣ **Live Social Media Updates**
+- Employees, consumers, and industry insiders **post live updates** about the company.
+- **Dice-roll system** determines if posts are **positive, neutral, or negative**.
+- **Impact:** Influences **company reputation, employee morale, and investor confidence**.
+
+---
+
+## 7️⃣ **Financial Graphs & Trend Visualization**
+- **Track Earnings, Debt, and Performance.**
+- **Graph Types:**
+  - **Line graphs** – Track daily/weekly/monthly financial trends.
+  - **Bar charts** – Compare revenue sources over time.
+  - **Pie charts** – Expense breakdowns for better financial management.
+- **Interactive Reports**:
+  - Players can filter graphs by **department, revenue source, and time period**.
+
+---
+
+## 8️⃣ **Negotiation Mechanics**
+- Players can **negotiate financial agreements, buyouts, and investor deals**.
+- **Key Negotiation Factors**:
+  - **Valuation Control** – Counter-offers based on company performance.
+  - **Equity vs. Cash** – Choose between a **lump sum payout or stock options**.
+  - **Investor Terms** – Bargain over **investment percentages, control, and conditions**.
+  - **Exit Strategy Decisions** – Walk away from bad deals or leverage for better terms.
+
+---
+
+## 9️⃣ **End-of-Day Confirmation System**
+- Players **must confirm 'end-of-day'** before the next in-game day advances.
+- **"End Day" options:**
+  - **Yes** → The next day starts after a few in-game hours pass.
+  - **No** → The player gets access to:
+    - Hiring/firing employees.
+    - Seeking investment.
+    - Checking stock market.
+    - Viewing financial summaries.
+
+---
+
+## 🔟 **Company Buyout Opportunities**
+- Rare opportunities to **sell the company (or a percentage)** to tech giants.
+- **Buyout Triggers:**
+  - **Market Dominance**
+  - **Breakthrough Tech**
+  - **Massive User Base**
+  - **Shady Dealings Exposure**
+- **Negotiation System:**
+  - Decide on **full sale, partial stake, or licensing agreements**.
+  - Counter-offer based on **valuation, stock options, or future involvement**.
+
+---
+
+These mechanics make *TechnoloJesus* more **realistic, strategic, and immersive**! Let me know if you want to refine or expand any features.
